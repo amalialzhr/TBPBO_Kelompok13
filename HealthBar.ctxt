@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HealthBar
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ drawHealth()
+comment2.text=\r\n\ Draws\ a\ healthbar\ above\ the\ player\r\n
+comment3.params=
+comment3.target=void\ updateLocation()
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Crates
+comment1.params=
+comment1.target=void\ checkStack()
+comment1.text=\r\n\ Checks\ if\ the\ crates\ is\ stacked\ on\ top\ of\ another\ crate\r\n
+comment2.params=
+comment2.target=void\ jump()
+numComments=3

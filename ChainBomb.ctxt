@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ChainBomb
+comment1.params=
+comment1.target=ChainBomb()
+comment2.params=direction
+comment2.target=ChainBomb(int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ selfDestruct()
+comment5.params=
+comment5.target=void\ turnTowardsMouse()
+comment6.params=
+comment6.target=void\ updateImmunity()
+comment7.params=
+comment7.target=boolean\ getImmunity()
+numComments=8

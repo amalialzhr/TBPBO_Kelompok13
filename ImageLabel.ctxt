@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ImageLabel
+comment1.params=score
+comment1.target=ImageLabel(int)
+numComments=2

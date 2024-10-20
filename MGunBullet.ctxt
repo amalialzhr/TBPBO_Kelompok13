@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MGunBullet
+comment1.params=acute
+comment1.target=MGunBullet(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ selfDestruct()
+comment4.params=
+comment4.target=void\ turnTowardsMouse()
+numComments=5

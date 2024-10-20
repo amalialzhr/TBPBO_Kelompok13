@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MissileSpawner
+comment1.params=
+comment1.target=MissileSpawner()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ createEnemy()
+numComments=4
